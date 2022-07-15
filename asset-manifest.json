@@ -1,0 +1,39 @@
+{
+  "files": {
+    "app.js": "/OvalMobile/static/js/app.3705e802.chunk.js",
+    "app.js.map": "/OvalMobile/static/js/app.3705e802.chunk.js.map",
+    "runtime~app.js": "/OvalMobile/static/js/runtime~app.34133f6f.js",
+    "runtime~app.js.map": "/OvalMobile/static/js/runtime~app.34133f6f.js.map",
+    "static/js/2.b2778282.chunk.js": "/OvalMobile/static/js/2.b2778282.chunk.js",
+    "static/js/2.b2778282.chunk.js.map": "/OvalMobile/static/js/2.b2778282.chunk.js.map",
+    "fonts/AntDesign.ttf": "/OvalMobile/./fonts/AntDesign.ttf",
+    "fonts/Entypo.ttf": "/OvalMobile/./fonts/Entypo.ttf",
+    "fonts/Feather.ttf": "/OvalMobile/./fonts/Feather.ttf",
+    "fonts/FontAwesome.ttf": "/OvalMobile/./fonts/FontAwesome.ttf",
+    "fonts/FontAwesome5_Brands.ttf": "/OvalMobile/./fonts/FontAwesome5_Brands.ttf",
+    "fonts/FontAwesome5_Solid.ttf": "/OvalMobile/./fonts/FontAwesome5_Solid.ttf",
+    "fonts/Fontisto.ttf": "/OvalMobile/./fonts/Fontisto.ttf",
+    "fonts/Foundation.ttf": "/OvalMobile/./fonts/Foundation.ttf",
+    "fonts/Ionicons.ttf": "/OvalMobile/./fonts/Ionicons.ttf",
+    "fonts/MaterialCommunityIcons.ttf": "/OvalMobile/./fonts/MaterialCommunityIcons.ttf",
+    "fonts/MaterialIcons.ttf": "/OvalMobile/./fonts/MaterialIcons.ttf",
+    "fonts/SimpleLineIcons.ttf": "/OvalMobile/./fonts/SimpleLineIcons.ttf",
+    "fonts/SpaceMono-Regular.ttf": "/OvalMobile/./fonts/SpaceMono-Regular.ttf",
+    "favicon-16.png": "/OvalMobile/favicon-16.png",
+    "favicon-32.png": "/OvalMobile/favicon-32.png",
+    "favicon.ico": "/OvalMobile/favicon.ico",
+    "index.html": "/OvalMobile/index.html",
+    "manifest.json": "/OvalMobile/manifest.json",
+    "serve.json": "/OvalMobile/serve.json",
+    "static/js/2.b2778282.chunk.js.LICENSE.txt": "/OvalMobile/static/js/2.b2778282.chunk.js.LICENSE.txt",
+    "static/media/hard-money.png": "/OvalMobile/static/media/hard-money.2da576e6.png",
+    "static/media/house.png": "/OvalMobile/static/media/house.9fd96c10.png",
+    "static/media/icon.png": "/OvalMobile/static/media/icon.d1b4ba80.png",
+    "static/media/profile.png": "/OvalMobile/static/media/profile.6e51940f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime~app.34133f6f.js",
+    "static/js/2.b2778282.chunk.js",
+    "static/js/app.3705e802.chunk.js"
+  ]
+}
